@@ -1,0 +1,679 @@
+[
+  {
+    "EventType": "sport",
+    "UserID": 15,
+    "EventTime": "2018-01-02 15:04:05",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 26,
+    "EventTime": "2018-08-01 08:04:02",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 37,
+    "EventTime": "2018-08-01 08:04:02",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 48,
+    "EventTime": "2018-12-01 18:04:02",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 59,
+    "EventTime": "2020-03-15 12:10:23",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 70,
+    "EventTime": "2021-06-25 20:33:45",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 81,
+    "EventTime": "2022-09-18 06:55:17",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 92,
+    "EventTime": "2024-01-10 14:17:39",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 103,
+    "EventTime": "2025-05-20 22:40:01",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 114,
+    "EventTime": "2026-09-30 07:02:23",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 125,
+    "EventTime": "2027-02-09 15:24:45",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 136,
+    "EventTime": "2028-06-21 23:47:07",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 36,
+    "EventTime": "2017-01-01 13:24:30",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 140,
+    "EventTime": "2017-02-05 17:48:10",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 97,
+    "EventTime": "2017-03-15 12:59:55",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 51,
+    "EventTime": "2017-05-20 12:10:21",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 77,
+    "EventTime": "2017-07-01 16:35:42",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 194,
+    "EventTime": "2017-08-17 17:54:03",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 26,
+    "EventTime": "2017-09-25 18:44:45",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 123,
+    "EventTime": "2017-10-29 14:01:09",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 88,
+    "EventTime": "2018-01-03 12:23:37",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 112,
+    "EventTime": "2018-04-14 15:29:18",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 169,
+    "EventTime": "2018-06-30 17:59:03",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 28,
+    "EventTime": "2018-07-15 18:37:27",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 179,
+    "EventTime": "2018-10-10 16:12:46",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 71,
+    "EventTime": "2019-02-24 14:05:29",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 160,
+    "EventTime": "2019-04-11 17:08:20",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 74,
+    "EventTime": "2019-06-19 13:14:12",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 155,
+    "EventTime": "2019-08-08 13:47:06",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 8,
+    "EventTime": "2019-10-02 16:21:51",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 118,
+    "EventTime": "2020-02-09 12:57:19",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 165,
+    "EventTime": "2020-04-03 13:32:53",
+    "Payload": "Some random payload data"
+  },
+  {"EventType": "culture",
+    "UserID": 105,
+    "EventTime": "2020-06-28 14:45:10",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 15,
+    "EventTime": "2018-01-02 15:04:05",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 26,
+    "EventTime": "2018-08-01 08:04:02",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 37,
+    "EventTime": "2018-08-01 08:04:02",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 48,
+    "EventTime": "2018-12-01 18:04:02",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 59,
+    "EventTime": "2020-03-15 12:10:23",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 70,
+    "EventTime": "2021-06-25 20:33:45",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 81,
+    "EventTime": "2022-09-18 06:55:17",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 92,
+    "EventTime": "2024-01-10 14:17:39",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 103,
+    "EventTime": "2025-05-20 22:40:01",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 114,
+    "EventTime": "2026-09-30 07:02:23",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 125,
+    "EventTime": "2027-02-09 15:24:45",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 136,
+    "EventTime": "2028-06-21 23:47:07",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 36,
+    "EventTime": "2017-01-01 13:24:30",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 140,
+    "EventTime": "2017-02-05 17:48:10",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 97,
+    "EventTime": "2017-03-15 12:59:55",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 51,
+    "EventTime": "2017-05-20 12:10:21",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 77,
+    "EventTime": "2017-07-01 16:35:42",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 194,
+    "EventTime": "2017-08-17 17:54:03",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 26,
+    "EventTime": "2017-09-25 18:44:45",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 123,
+    "EventTime": "2017-10-29 14:01:09",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 88,
+    "EventTime": "2018-01-03 12:23:37",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 112,
+    "EventTime": "2018-04-14 15:29:18",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 169,
+    "EventTime": "2018-06-30 17:59:03",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 28,
+    "EventTime": "2018-07-15 18:37:27",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 179,
+    "EventTime": "2018-10-10 16:12:46",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 71,
+    "EventTime": "2019-02-24 14:05:29",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 160,
+    "EventTime": "2019-04-11 17:08:20",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 74,
+    "EventTime": "2019-06-19 13:14:12",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 5,
+    "EventTime": "2019-08-08 13:47:06",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 8,
+    "EventTime": "2019-10-01 16:21:51",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 118,
+    "EventTime": "2020-02-01 12:57:19",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 165,
+    "EventTime": "2020-04-03 13:32:53",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 105,
+    "EventTime": "2020-06-28 14:45:10",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 91,
+    "EventTime": "2020-09-01 17:24:44",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 143,
+    "EventTime": "2020-11-29 12:39:30",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 91,
+    "EventTime": "2020-09-17 17:24:44",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 163,
+    "EventTime": "2020-11-29 12:39:30",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 140,
+    "EventTime": "2017-02-05 17:48:10",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 97,
+    "EventTime": "2017-03-15 12:59:55",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 51,
+    "EventTime": "2017-05-20 12:10:21",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 77,
+    "EventTime": "2017-07-01 16:35:42",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 194,
+    "EventTime": "2017-08-17 17:54:03",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 26,
+    "EventTime": "2017-09-25 18:44:45",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 103,
+    "EventTime": "2019-10-29 14:01:09",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 88,
+    "EventTime": "2018-01-03 12:23:37",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 112,
+    "EventTime": "2017-04-14 15:29:18",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 169,
+    "EventTime": "2018-06-30 22:59:03",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 20,
+    "EventTime": "2020-07-15 19:37:27",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 179,
+    "EventTime": "2023-10-10 16:12:46",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 71,
+    "EventTime": "2019-02-24 14:05:29",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 170,
+    "EventTime": "2022-04-12 17:08:20",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 169,
+    "EventTime": "2018-06-01 17:59:03",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 28,
+    "EventTime": "2018-07-15 18:37:27",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 179,
+    "EventTime": "2018-11-01 16:12:46",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 71,
+    "EventTime": "2020-02-24 14:05:29",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 88,
+    "EventTime": "2019-04-11 17:58:20",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 74,
+    "EventTime": "2019-05-19 13:24:12",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 5,
+    "EventTime": "2019-03-08 13:40:06",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 88,
+    "EventTime": "2017-01-01 13:04:30",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 8,
+    "EventTime": "2019-10-01 16:21:51",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 12,
+    "EventTime": "2020-03-01 12:07:19",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 165,
+    "EventTime": "2020-09-03 13:30:53",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 88,
+    "EventTime": "2020-06-28 14:55:10",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 8,
+    "EventTime": "2019-01-01 13:24:30",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 91,
+    "EventTime": "2020-09-01 17:24:44",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 1,
+    "EventTime": "2020-06-29 12:39:30",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 91,
+    "EventTime": "2020-09-17 17:24:44",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 88,
+    "EventTime": "2020-11-29 12:39:30",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 4,
+    "EventTime": "2022-01-12 13:24:30",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 140,
+    "EventTime": "2017-02-05 17:48:10",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 97,
+    "EventTime": "2017-03-15 12:59:55",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 88,
+    "EventTime": "2017-05-20 12:10:21",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "sinema",
+    "UserID": 77,
+    "EventTime": "2017-07-01 16:35:42",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 10,
+    "EventTime": "2017-08-17 17:54:03",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "music",
+    "UserID": 26,
+    "EventTime": "2017-09-25 18:44:45",
+    "Payload": "Unique event data"
+  },
+  {
+    "EventType": "sport",
+    "UserID": 100,
+    "EventTime": "2019-10-29 14:01:09",
+    "Payload": "Some random payload data"
+  },
+  {
+    "EventType": "music",
+    "UserID": 88,
+    "EventTime": "2018-01-03 12:23:37",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 10,
+    "EventTime": "2022-01-01 13:24:30",
+    "Payload": "Payload example"
+  },
+  {
+    "EventType": "music",
+    "UserID": 113,
+    "EventTime": "2017-04-14 15:29:18",
+    "Payload": "Random event payload"
+  },
+  {
+    "EventType": "culture",
+    "UserID": 10,
+    "EventTime": "2021-01-01 13:14:30",
+    "Payload": "Payload example"
+  }
+]

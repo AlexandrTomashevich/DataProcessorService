@@ -1,0 +1,10 @@
+server_http:
+   address: "0.0.0.0:8090"
+
+database:
+  username: "postgres"
+  host: "0.0.0.0"
+  port: "5432"
+  dbname: "postgreSQL"
+  sslmode: "disable"
+  driver: "postgres"
