@@ -30,12 +30,15 @@
 Реализовать на GO JSON API с методом отправки события в ClickHouse. Пример запроса:
 
 POST /api/event
+`
 {
 "eventType": "login",
 "userID": 1,
 "eventTime": "2023-04-09 13:00:00",
 "payload": "{\"some_field\":\"some_value\"}"
 }
+`
+
 **Решение** 
 Сервис состоит из:
 [main.go] - главная файл из которого запускается приложение
